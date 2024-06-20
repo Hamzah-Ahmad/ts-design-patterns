@@ -1,4 +1,4 @@
-// The Strategy Pattern is a design pattern that enables you to switch out algorithms or strategies without altering the code that uses them. Essentially, it involves defining a family of algorithms, encapsulating each one, and making them interchangeable. This brings flexibility and promotes cleaner, more decoupled code by segregating the behavior (algorithm/strategy) from the context (class) that uses it.
+// The Strategy Pattern is a behavioral design pattern that enables you to switch out algorithms or strategies without altering the code that uses them. Essentially, it involves defining a family of algorithms, encapsulating each one, and making them interchangeable. This brings flexibility and promotes cleaner, more decoupled code by segregating the behavior (algorithm/strategy) from the context (class) that uses it.
 
 // Explanation Reference: https://blog.bitsrc.io/a-beautiful-design-pattern-strategy-pattern-62afe44886fc
 // Code reference: https://refactoring.guru/design-patterns/strategy/typescript/example
