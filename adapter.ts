@@ -3,6 +3,8 @@
 
 // Complete code and explanation reference: https://refactoring.guru/design-patterns/adapter/typescript/example
 
+// Easier exlanation with code here: https://www.youtube.com/watch?v=beU4i949YXU
+
 /**
  * The Target defines the domain-specific interface used by the client code.
  */
